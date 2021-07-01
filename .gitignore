@@ -1,5 +1,10 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+#Apuntes
+# Para instalar angularfire mejor me guié de la página: https://fireship.io/snippets/install-angularfire/
+# o en el github oficial pero dando en 'or quickstart guide' y se tiene que agregar el firebase aparte (npm install firebase)
+# lo último lo encontré en https://stackoverflow.com/questions/61130173/angular9-error-in-the-target-entry-point-angular-fire-auth-has-missing-depen
+
 # compiled output
 /dist
 /tmp
